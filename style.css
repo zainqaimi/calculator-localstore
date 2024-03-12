@@ -46,6 +46,10 @@
     background-color: orange;
     color: white;
 }
+p{
+    padding: 0px;
+    margin: 0px;
+}
 .store{
     height: 30px;
     padding-top: 13px;
